@@ -4,7 +4,7 @@ import (
     "github.com/giganteous/goflap"
 
     "github.com/hoisie/redis"    // connecting to flapjacks backend
-    "github.com/globocom/config" // for parsing flapjack's yaml config
+    "github.com/tsuru/config" // for parsing flapjack's yaml config
 
     "log"
     "os" // for environment
